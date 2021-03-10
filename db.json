@@ -601,9 +601,9 @@
       ]
     },
     {
-      "title": [
+      "title": 
         "Alexandria Among Most Popular Tourist Destinations in 2021: TripAdvisor"
-      ],
+      ,
       "description": "Alexandria has been selected as one of the world’s most popular tourist destinations in 2021.",
       "img": 
         "art2_1.jpg"
@@ -731,27 +731,27 @@
       "id": 7
     },
     {
-      "title": [
+      "title": 
         "Egypt opens first-ever restaurant on pyramid plateau in Giza"
-      ],
-      "description": [
+      ,
+      "description": 
         "The gradual opening of the area comes as Egypt continues to attempt to revive its key tourism sector, which has been hit hard by the coronavirus pandemic"
-      ],
-      "img": [
+      ,
+      "img": 
         "eat1.jpg"
-      ],
-      "section": [
+      ,
+      "section": 
         "Keep up with the new"
-      ],
+      ,
       "content": "Egypt opened its first-ever restaurant and lounge in Giza’s pyramid plateau, giving visitors a unique view of the plateau’s nine royal tombs.\nThe restaurant, named 9 Pyramids Lounge, is built on a total area of 1,341 square metres with indoor and outdoor seating, with a private parking lot nearby, according to a joint statement by the plateau’s main developer, Orascom Pyramids Entertainment, and the Ministry of Antiquities and Tourism.\nSawiris also revealed that two fine dining restaurants and a cafe are set to be opened in early 2021 in the area’s old engineering administration building overlooking the three pyramids.\n\nThe gradual opening of the area comes as Egypt continues to attempt to revive its key tourism sector, which has been hit hard by the coronavirus pandemic.\n\nThe tourism sector is a main source of foreign currency, with all eyes on the winter season in Egypt’s main Red Sea and South Sinai resorts, which are usually a favourite destination for tourists during winter.\nThe lounge was inaugurated during an event attended by Tourism and Antiquities Minister Khaled Al-Anany, chairman and CEO of Orascom Naguib Sawiris, CEO of Orascom Pyramids Entertainment Ashraf Halim, and others.\n\n",
       "Images": [
         "eat1.jpg",
         "eat11.jpeg",
         "eat12.jpeg"
       ],
-      "dep": [
+      "dep": 
         "6"
-      ],
+      ,
       "city": "cairo",
       "id": 8
     },
