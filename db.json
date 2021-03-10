@@ -605,9 +605,9 @@
         "Alexandria Among Most Popular Tourist Destinations in 2021: TripAdvisor"
       ],
       "description": "Alexandria has been selected as one of the world’s most popular tourist destinations in 2021.",
-      "img": [
+      "img": 
         "art2_1.jpg"
-      ],
+      ,
       "section": [
         "Explore top attractions"
       ],
@@ -628,13 +628,13 @@
       "id": 2
     },
     {
-      "title": [
+      "title": 
         "Young Egyptian promotes tourism with selfies"
-      ],
+      ,
       "description": "Mostafa Khater is an Egyptian young man who started an initiative called “Selfie with Egypt” to promote beautiful places in Egypt.",
-      "img": [
+      "img": 
         "art3_3.jpg"
-      ],
+      ,
       "section": [
         "Explore top attractions"
       ],
@@ -682,9 +682,9 @@
       ]
     },
     {
-      "title": [
+      "title": 
         "Cleopatra’s Bath in Siwa"
-      ],
+      ,
       "description": [
         "Located in Siwa Oasis, and is one of its landmarks. It’s basically a pool that is fed with water from natural hot springs, it’s the best way to cool off the heat of a hot summer day."
       ],
@@ -706,31 +706,27 @@
       "id": 6
     },
     {
-      "title": [
-        [
+      "title": 
+        
           "Enjoy A journey through history in the Temple of Amon"
-        ]
-      ],
-      "description": [
-        [
+        
+      ,
+      "description": 
           "The Temple of Amon, the Temple of Revelation, the Predictions, or the Temple of Alexander are all the names of the most important monuments in Siwa Oasis."
-        ]
-      ],
+        ,
       "img": "art8.jpg",
       "section": [
-        [
+       
           "Explore top attractions"
-        ]
+        
       ],
       "content": "The Temple of Amon, the Temple of Revelation, the Predictions, or the Temple of Alexander are all the names of the most important monuments in Siwa Oasis.\nA lobby was built inside the temple to receive the Great Alexander and crown him. It is located 4 km from the middle of the city in an area called Agurami, built on a large flat rock.\nThe temple witnessed many changes and many fingerprints, from the Pharaonic, Greek, Roman, and even Islamic times.\nIt contains a mosque, a minaret, rooms for the priests of the Pharaohs, passages and a well of holy water and Roman walls.\nIt is divided into two halves, the first is Pharaonic, and the second is \"Ptolemaic and Islamic.\"\nOn the second floor of the temple is a collection of oasis houses and salt lakes, green palm farms surrounded by other archaeological sites and mountains.",
       "Images": [
         "art8.jpg"
       ],
-      "dep": [
-        [
+      "dep": 
           "4"
-        ]
-      ],
+      ,
       "city": "siwa",
       "id": 7
     },
