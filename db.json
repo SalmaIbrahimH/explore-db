@@ -857,8 +857,12 @@
     "section": [
       "Explore top attractions"
     ],
-    "content": "Imagine yourself lost under the burning desert sun looking for shelter. Suddenly in the endless sand dunes, you see in the distance a scenery of lakes and palm trees. You run desperately towards the view, hoping that it’s not another mirage. Yet, it turns out to be real.   \n\nArriving there to discover that this heavenly oasis doesn’t just provide you with water and shade. You realize that you discovered one of the most beautiful places in the whole world. You just arrived in Siwa oasis located in the western desert of Egypt, 450 km away from the Nile river banks.   This island has the absolute best sunset view you can ever watch. Fitnas island overlooks the salty lake of Siwa, where you can see the great sand dunes in the distance.  \nIt is by far one of the most serene places where you can unplug from the world and enjoy a nice tea with an amazing view. ",
-    "Images": [
+    "content":[
+    "magine yourself lost under the burning desert sun looking for shelter. Suddenly in the endless sand dunes, you see in the distance a scenery of lakes and palm trees. You run desperately towards the view, hoping that it’s not another mirage. Yet, it turns out to be real",
+    "Arriving there to discover that this heavenly oasis doesn’t just provide you with water and shade. You realize that you discovered one of the most beautiful places in the whole world.",
+    "You just arrived in Siwa oasis located in the western desert of Egypt, 450 km away from the Nile river banks.   This island has the absolute best sunset view you can ever watch. Fitnas island overlooks the salty lake of Siwa, where you can see the great sand dunes in the distance.  \n",
+    "It is by far one of the most serene places where you can unplug from the world and enjoy a nice tea with an amazing view."
+  ],    "Images": [
       "Siwa_Fitnas_Island.jpg"
     ],
     "dep": "7",
