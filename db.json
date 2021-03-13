@@ -594,249 +594,407 @@
       "img": "explorDep8.jpg"
     }
   ],
-  "ActivitiesArticles": [
-    {
-      "id": 1,
-      "title": "How Egypt is trying to encourage the return of tourism",
-      "img": "Explore top attractions1.jpg",
-      "description": "Egypt is reopening its borders to international tourists on 1 July,but many parts of the country will remain off-limits.",
-      "section": "Explore top attractions",
-      "dep": [
+  [
+  {
+    "title": [
+      "How Egypt is trying to encourage the return of tourism"
+    ],
+    "description": [
+      "Egypt is reopening its borders to international tourists on 1 July,but many parts of the country will remain off-limits."
+    ],
+    "img": [
+      "Explore top attractions1.jpg"
+    ],
+    "section": [
+      "Explore top attractions"
+    ],
+    "content": [
+      "The year 2020 was set to be a blockbuster one for tourism in Egypt. The Grand Egyptian Museum was slated to open this year after nearly two decades in the making, prompting Lonely Planet to name Cairo one of the top cities to visit in 2020.",
+      "It’s easier than ever to travel around the country, with the recent introduction of e-visas, the opening of a new airport in Giza and new domestic flight routes between Sharm El Sheikh and Luxor, two of the country’s main tourist hubs.",
+      ".Egyptian government tries new tactics to lure tourists Mortuary temple of Queen Hatshepsut at Deir el-Bahri, Luxor, Egypt © Michelle McMahon/Getty Images But even as the coronavirus pandemic continues to stifle international travel, Egypt is trying new tactics to lure visitors to the country.",
+      " In June, the government eliminated the need for tourist visas for visitors to the country’s ‘touristic governorates’ – South Sinai, Red Sea, Luxor and Aswan – and the country’s cabinet has just decided to extend the incentive until the end of April 2021 to encompass the winter season, which is usually when Egypt receives the highest number of visitors. Travelers who fly with EgyptAir or Air Cairo also get a 20% discount on tickets to museums and archaeological sites.The frontage of Coptic Museum in Cairo, Egypt.",
+      "The frontage of the central entrance of Coptic Museum © efesenko / Getty Images The country reopened to tourists in July, and it’s yet to be seen whether these offers will entice more visitors.",
+      "When arriving in Egypt, all passengers are required to present a negative PCR test certificate, with the test conducted no more than 72 hours before departure.Egypt had expected to receive some 15 million tourists in 2020, matching the number of visitors in 2010, a year before the Arab Spring revolutions brought turmoil and uncertainty to the region, but as with all other countries, the numbers will fall far below the target. Tourism is an important industry in the country and makes up more than 10% of Egypt’s economy."
+    ],
+    "Images": [
+      "Explore top attractions1.jpg",
+      "art1_1.jpg",
+      "art1_2.jpg"
+    ],
+    "dep": [
+      [
         1
-      ],
-      "content": "The year 2020 was set to be a blockbuster one for tourism in Egypt. The Grand Egyptian Museum was slated to open this year after nearly two decades in the making, prompting Lonely Planet to name Cairo one of the top cities to visit in 2020. It’s easier than ever to travel around the country, with the recent introduction of e-visas, the opening of a new airport in Giza and new domestic flight routes between Sharm El Sheikh and Luxor, two of the country’s main tourist hubs.Egyptian government tries new tactics to lure tourists Mortuary temple of Queen Hatshepsut at Deir el-Bahri, Luxor, Egypt © Michelle McMahon/Getty Images But even as the coronavirus pandemic continues to stifle international travel, Egypt is trying new tactics to lure visitors to the country. In June, the government eliminated the need for tourist visas for visitors to the country’s ‘touristic governorates’ – South Sinai, Red Sea, Luxor and Aswan – and the country’s cabinet has just decided to extend the incentive until the end of April 2021 to encompass the winter season, which is usually when Egypt receives the highest number of visitors. Travelers who fly with EgyptAir or Air Cairo also get a 20% discount on tickets to museums and archaeological sites.The frontage of Coptic Museum in Cairo, Egypt. The frontage of the central entrance of Coptic Museum © efesenko / Getty Images The country reopened to tourists in July, and it’s yet to be seen whether these offers will entice more visitors. When arriving in Egypt, all passengers are required to present a negative PCR test certificate, with the test conducted no more than 72 hours before departure.Egypt had expected to receive some 15 million tourists in 2020, matching the number of visitors in 2010, a year before the Arab Spring revolutions brought turmoil and uncertainty to the region, but as with all other countries, the numbers will fall far below the target. Tourism is an important industry in the country and makes up more than 10% of Egypt’s economy.",
-      "Images": [
-        "Explore top attractions1.jpg",
-        "art1_1.jpg",
-        "art1_2.jpg"
       ]
-    },
-    {
-      "title": 
-        "Alexandria Among Most Popular Tourist Destinations in 2021: TripAdvisor"
-      ,
-      "description": "Alexandria has been selected as one of the world’s most popular tourist destinations in 2021.",
-      "img": 
-        "art2_1.jpg"
-      ,
-      "section": [
+    ],
+    "city": null,
+    "id": 1
+  },
+  {
+    "title": [
+      "Alexandria Among Most Popular Tourist Destinations in 2021: TripAdvisor"
+    ],
+    "description": [
+      "Alexandria has been selected as one of the world’s most popular tourist destinations in 2021."
+    ],
+    "img": [
+      "art2_1.jpg"
+    ],
+    "section": [
+      [
         "Explore top attractions"
-      ],
-      "content": "Among a list of 25 destinations worldwide, Alexandria came in sport 23, according to comments and ratings from travelers published on the website.Previously, Cairo and Hurghada were selected for their 2020 list, as Cairo ranked in the 12th place and Hurghada in the 24th place.“The Pearl of the Mediterranean has an ambiance more in keeping with its neighbors to the north than with those in the Middle East,” it says on the website, “Alexandria offers fascinating insights into its proud Greek past, as well as interesting mosques, the casino strip of the Corniche, some lovely gardens and both modern and traditional hotels.”According to the Egyptian Junior Business Association (EJB), 300,000 tourists have visited Egypt since July at a rate of 6,000 tourists a day until the end of August.Over 150 million travel and tourism jobs have been lost globally since the onset of COVID-19 outbreak. To support Egypt’s tourism sector amid the COVID-19 pandemic, Egypt’s Ministry of Tourism and Antiquities, Ministry of International Cooperation, the European Bank for Reconstruction and Development (EBRD), and the UN’s World Trade Organization (UNWTO) recently signed a COVID-19 tourism recovery technical assistance cooperation package to promote resilience, sustainability, and inclusive growth.",
-      "Images": [
-        "art2_1.jpg",
-        "art2-2.jpg",
-        "art2_3.jpg"
-      ],
-      "dep": [
+      ]
+    ],
+    "content": [
+      "Among a list of 25 destinations worldwide, Alexandria came in sport 23, according to comments and ratings from travelers published on the website.Previously, Cairo and Hurghada were selected for their 2020 list, as Cairo ranked in the 12th place and Hurghada in the 24th place.",
+      "The Pearl of the Mediterranean has an ambiance more in keeping with its neighbors to the north than with those in the Middle East,” it says on the website, “Alexandria offers fascinating insights into its proud Greek past, as well as interesting mosques, the casino strip of the Corniche, some lovely gardens and both modern and traditional hotels.",
+      "”According to the Egyptian Junior Business Association (EJB), 300,000 tourists have visited Egypt since July at a rate of 6,000 tourists a day until the end of August.Over 150 million travel and tourism jobs have been lost globally since the onset of COVID-19 outbreak.",
+      "To support Egypt’s tourism sector amid the COVID-19 pandemic, Egypt’s Ministry of Tourism and Antiquities, Ministry of International Cooperation, the European Bank for Reconstruction and Development (EBRD), and the UN’s World Trade Organization (UNWTO) recently signed a COVID-19 tourism recovery technical assistance cooperation package to promote resilience, sustainability, and inclusive growth."
+    ],
+    "Images": [
+      "art2_1.jpg",
+      "art2-2.jpg",
+      "art2_3.jpg"
+    ],
+    "dep": [
+      [
         [
           1,
           2,
           3
         ]
-      ],
-      "city": "Alexandria",
-      "id": 2
-    },
-    {
-      "title": 
-        "Young Egyptian promotes tourism with selfies"
-      ,
-      "description": "Mostafa Khater is an Egyptian young man who started an initiative called “Selfie with Egypt” to promote beautiful places in Egypt.",
-      "img": 
-        "art3_3.jpg"
-      ,
-      "section": [
-        "Explore top attractions"
-      ],
-      "content": "Aiming to promote tourism in Egypt both locally and internationally, Mostafa Khater, who studies Pharmacy at Helwan University, decided to try a new way.The 21-year-old student said that he hasn’t received any help from the state for his promotional work and only shares his photos on Facebook and Instagram.He called on government officials to use his photography to promote tourism in Egypt and added that he is currently seeking to show his initiative off during the upcoming state-sponsored international Youth Conference that is planned to take place on November at Sharm El-Sheikh.“I will also do my best to open communication channels with foreigners who are interested in visiting Egypt through promoting photos on foreign travel agencies websites,” Khater concluded.The 21-year-old student said that he hasn’t received any help from the state for his promotional work and only shares his photos on Facebook and Instagram.",
-      "Images": [
-        "art3_1.jpg",
-        "art3_2.jpg",
-        "art3_3.jpg",
-        "art3_4.jpg"
-      ],
-      "dep": [
-        [
-          1,
-          2,
-          3
-        ]
-      ],
-      "city": null,
-      "id": 3
-    },
-    {
-      "id": 4,
-      "title": "Hot Air Ballooning in Luxor",
-      "img": "keepNew1.jpg",
-      "description": "It’s an incredibly peaceful time in the air. The balloon is literally floating, you don’t feel a thing, and it’s so silent. All the while you fly over one of the most amazing sceneries worldwide.",
-      "section": "Keep up with the new",
-      "city": "Luxor",
-      "dep": [
-        2,
-        3
-      ],
-      "Images": [
-        "keepNew1.jpg"
-      ],
-      "content": "One of Luxor’s most beloved tourist attractions, the hot air balloon, has made a comeback to the antiquities-laden city with its first trip in 80 days set to resume operating today.The activity, which gives Luxor its familiar and colorfully punctuated skyline, was suspended in July due to raised security concerns, following an incident in which a balloon drifted off course west of the city.According to state-owned news outlet Al Ahram, the city’s aviation authorities lifted the 80-day suspension of hot air balloon flights as a result of better safety measures being adopted by local operators.Despite the attempts at improving security, Egypt’s hot air balloons have a minor reputation for unsafety. This is due to the death of a South African tourist in January 2018 when a hot air balloon crashed; the incident also left many tourists injured and was attributed to poor weather conditions.Moreover, Egypt holds the record for the deadliest balloon accident in history. In 2013, a hot air balloon crash incident ensued when a balloon caught fire in mid-air. The tragic incident claimed the lives of 19 more tourists.Prior, crashes in Egypt are known to have occurred in 2008, 2009 and 2011.Giving tourists a unique view to cities with iconic buildings and landscapes, hot air balloons are popular in touristic countries such as Turkey, Kenya and the US among many others.In Egypt, they are also popular among archaeologists and Egyptologists who seek to capture an ‘overview’ angle of various archaeological sites. This is due to the fact that the use of drones—commonly used in the field of archaeology—by non-military personnel is illegal in Egypt."
-    },
-    {
-      "id": 5,
-      "title": "Al-Qataneyah Dunes for Sandboarding & Barbecuing",
-      "img": "keepNew2.jpg",
-      "description": "It’s the best getaway from trafficy noisy Cairo, located 80km southwest of the city so in less than an hour you can enjoy the emptiness of the desert",
-      "section": "Keep up with the new",
-      "Images": [
-        "keepNew2.jpg"
       ]
-    },
-    {
-      "title": 
-        "Cleopatra’s Bath in Siwa"
-      ,
-      "description": [
+    ],
+    "city": "Alexandria",
+    "id": 2
+  },
+  {
+    "title": [
+      "Young Egyptian promotes tourism with selfies"
+    ],
+    "description": " Egyptian young man started an initiative called “Selfie with Egypt” to promote beautiful places in Egypt.",
+    "img": [
+      "art3_3.jpg"
+    ],
+    "section": [
+      [
+        "Explore top attractions"
+      ]
+    ],
+    "content": [
+      "Aiming to promote tourism in Egypt both locally and internationally, Mostafa Khater, who studies Pharmacy at Helwan University, decided to try a new way.",
+      "The 21-year-old student said that he hasn’t received any help from the state for his promotional work and only shares his photos on Facebook and Instagram.He called on government officials to use his photography to promote tourism in Egypt and added that he is currently seeking to show his initiative off during the upcoming state-sponsored international Youth Conference that is planned to take place on November at Sharm El-Sheikh.",
+      "“I will also do my best to open communication channels with foreigners who are interested in visiting Egypt through promoting photos on foreign travel agencies websites,” Khater concluded.The 21-year-old student said that he hasn’t received any help from the state for his promotional work and only shares his photos on Facebook and Instagram."
+    ],
+    "Images": [
+      "art3_1.jpg",
+      "art3_2.jpg",
+      "art3_3.jpg",
+      "art3_4.jpg"
+    ],
+    "dep": "2",
+    "city": null,
+    "id": 3
+  },
+  {
+    "title": [
+      "Hot Air Ballooning in Luxor"
+    ],
+    "description": [
+      "It’s an incredibly peaceful time in the air. The balloon is literally floating, you don’t feel a thing, and it’s so silent. All the while you fly over one of the most amazing sceneries worldwide."
+    ],
+    "img": [
+      "keepNew1.jpg"
+    ],
+    "section": [
+      "Keep up with the new"
+    ],
+    "content": [
+      "One of Luxor’s most beloved tourist attractions, the hot air balloon, has made a comeback to the antiquities-laden city with its first trip in 80 days set to resume operating today.",
+      "The activity, which gives Luxor its familiar and colorfully punctuated skyline, was suspended in July due to raised security concerns, following an incident in which a balloon drifted off course west of the city.According to state-owned news outlet Al Ahram, the city’s aviation authorities lifted the 80-day suspension of hot air balloon flights as a result of better safety measures being adopted by local operators.",
+      "Despite the attempts at improving security, Egypt’s hot air balloons have a minor reputation for unsafety. This is due to the death of a South African tourist in January 2018 when a hot air balloon crashed; the incident also left many tourists injured and was attributed to poor weather conditions.Moreover, Egypt holds the record for the deadliest balloon accident in history. In 2013, a hot air balloon crash incident ensued when a balloon caught fire in mid-air.",
+      "The tragic incident claimed the lives of 19 more tourists.Prior, crashes in Egypt are known to have occurred in 2008, 2009 and 2011.Giving tourists a unique view to cities with iconic buildings and landscapes, hot air balloons are popular in touristic countries such as Turkey, Kenya and the US among many others.",
+      "In Egypt, they are also popular among archaeologists and Egyptologists who seek to capture an ‘overview’ angle of various archaeological sites. This is due to the fact that the use of drones—commonly used in the field of archaeology—by non-military personnel is illegal in Egypt."
+    ],
+    "Images": [
+      "keepNew1.jpg"
+    ],
+    "dep": "3",
+    "city": "Luxor",
+    "id": 4
+  },
+  {
+    "title": [
+      "Al-Qataneyah Dunes for Sandboarding & Barbecuing"
+    ],
+    "description": [
+      "It’s the best getaway from trafficy noisy Cairo, located 80km southwest of the city so in less than an hour you can enjoy the emptiness of the desert"
+    ],
+    "img": [
+      "keepNew2.jpg"
+    ],
+    "section": [
+      "Keep up with the new"
+    ],
+    "content": [
+      "At a distance of 130 km from the Egyptian capital, Cairo, it embraces vast areas of sand dunes, one of the largest natural lakes in Egypt, turning the site into an address for sand skiing in the country.",
+      "You have to travel to the desert to discover what is believed to be the best dune site in the whole world because of its rich and deep dunes, some of which reach a height of 140 meters; and if that is not enough for you, there are breathtaking scenes of the landscapes extending across the desert The wide that surrounds you from every direction while skiing. You can head to the sand Pacific Ocean by skiing, whether you are in the Cairo Top Tours camp, sandboarding trips in Egypt, or Egypt day tours, provided you are accompanied by a professional guide. The dunes vary in shapes and sizes to suit everyone.",
+      "One of the best places and dunes in which you can practice sand skiing in the Arab world is the Great Sand Sea near the Siwa Oasis in the Western Desert, the dunes of Qattaniah in the Bahariya Oasis road from Cairo, and the yellow dunes between the city of Dahab and the Monastery of St. Catherine.\n",
+      "At a distance of 130 km from the Egyptian capital, Cairo, it embraces vast areas of dunes, one of the largest natural lakes in Egypt, turning the site into an address for sand skiing in the country.",
+      "And sand skiing, a type of sport that uses boards similar to those used in skiing, but it is practiced on dunes, and spread in the desert areas and valleys, and has followers and fans in the world.\n\nHot yellow sand, as far as the eye can see, natural grooves appear as a painting by an artist's feather, and a cold lake, a pleasure that you will only find in the Sea of Sands in Siwa Oasis, which is only completed by a safari trip with Egypt travel packages, then a cup of Zarda tea that you will not understand its composition but Sure enough, you'll love it, then the ultimate in dunes."
+    ],
+    "Images": [
+      "keepNew2.jpg"
+    ],
+    "dep": "3",
+    "city": "cairo",
+    "id": 5
+  },
+  {
+    "title": [
+      "Cleopatra’s Bath in Siwa"
+    ],
+    "description": [
+      [
         "Located in Siwa Oasis, and is one of its landmarks. It’s basically a pool that is fed with water from natural hot springs, it’s the best way to cool off the heat of a hot summer day."
-      ],
-      "img": "keepNew3.jpg",
-      "section": [
+      ]
+    ],
+    "img": [
+      "keepNew3.jpg"
+    ],
+    "section": [
+      [
         "Keep up with the new"
-      ],
-      "content": "In Siwa there is a Lake, its sides built of stone and its water is filled with hot springs, where you can enjoy a swim in this clear lake.\nThe place where Queen Cleopatra swore was celebrated, as the Egyptian Queen Cleopatra swam by herself during her visit to Siwa.\nIt is called Cleopatra's eye, the eye of the sun, the eye of Juba, or the holy eye. It has a diameter of 40 meters and a depth of ten meters.\nIts strong flowing water is characterized by purity and serenity, it automatically renews itself. Water flows from small openings and is surrounded by trees and palms.\nThe lake is the main source of water for more than 840 square kilometres of gardens and orchards in the oasis.",
-      "Images": [
-        "keepNew3.jpg",
-        "lake1.jpg",
-        "lake2.jpg",
-        "lakee.jpeg"
-      ],
-      "dep": [
-        null
-      ],
-      "city": "siwa",
-      "id": 6
-    },
-    {
-      "title": 
-        
-          "Enjoy A journey through history in the Temple of Amon"
-        
-      ,
-      "description": 
-          "The Temple of Amon, the Temple of Revelation, the Predictions, or the Temple of Alexander are all the names of the most important monuments in Siwa Oasis."
-        ,
-      "img": "art8.jpg",
-      "section": [
-       
-          "Explore top attractions"
-        
-      ],
-      "content": "The Temple of Amon, the Temple of Revelation, the Predictions, or the Temple of Alexander are all the names of the most important monuments in Siwa Oasis.\nA lobby was built inside the temple to receive the Great Alexander and crown him. It is located 4 km from the middle of the city in an area called Agurami, built on a large flat rock.\nThe temple witnessed many changes and many fingerprints, from the Pharaonic, Greek, Roman, and even Islamic times.\nIt contains a mosque, a minaret, rooms for the priests of the Pharaohs, passages and a well of holy water and Roman walls.\nIt is divided into two halves, the first is Pharaonic, and the second is \"Ptolemaic and Islamic.\"\nOn the second floor of the temple is a collection of oasis houses and salt lakes, green palm farms surrounded by other archaeological sites and mountains.",
-      "Images": [
-        "art8.jpg"
-      ],
-      "dep": 
-          "4"
-      ,
-      "city": "siwa",
-      "id": 7
-    },
-    {
-      "title": 
-        "Egypt opens first-ever restaurant on pyramid plateau in Giza"
-      ,
-      "description": 
-        "The gradual opening of the area comes as Egypt continues to attempt to revive its key tourism sector, which has been hit hard by the coronavirus pandemic"
-      ,
-      "img": 
-        "eat1.jpg"
-      ,
-      "section": 
-        "Keep up with the new"
-      ,
-      "content": "Egypt opened its first-ever restaurant and lounge in Giza’s pyramid plateau, giving visitors a unique view of the plateau’s nine royal tombs.\nThe restaurant, named 9 Pyramids Lounge, is built on a total area of 1,341 square metres with indoor and outdoor seating, with a private parking lot nearby, according to a joint statement by the plateau’s main developer, Orascom Pyramids Entertainment, and the Ministry of Antiquities and Tourism.\nSawiris also revealed that two fine dining restaurants and a cafe are set to be opened in early 2021 in the area’s old engineering administration building overlooking the three pyramids.\n\nThe gradual opening of the area comes as Egypt continues to attempt to revive its key tourism sector, which has been hit hard by the coronavirus pandemic.\n\nThe tourism sector is a main source of foreign currency, with all eyes on the winter season in Egypt’s main Red Sea and South Sinai resorts, which are usually a favourite destination for tourists during winter.\nThe lounge was inaugurated during an event attended by Tourism and Antiquities Minister Khaled Al-Anany, chairman and CEO of Orascom Naguib Sawiris, CEO of Orascom Pyramids Entertainment Ashraf Halim, and others.\n\n",
-      "Images": [
-        "eat1.jpg",
-        "eat11.jpeg",
-        "eat12.jpeg"
-      ],
-      "dep": 
-        "6"
-      ,
-      "city": "cairo",
-      "id": 8
-    },
-    {
-      "title": "Watch the Sunset from Fitnas island  ",
-      "description": "It is by far one of the most serene places where you can unplug from the world and enjoy a nice tea with an amazing view. ",
-      "img": "Siwa_Fitnas_Island.jpg",
-      "section": "Explore top attractions",
-      "content": "Imagine yourself lost under the burning desert sun looking for shelter. Suddenly in the endless sand dunes, you see in the distance a scenery of lakes and palm trees. You run desperately towards the view, hoping that it’s not another mirage. Yet, it turns out to be real.   \n\nArriving there to discover that this heavenly oasis doesn’t just provide you with water and shade. You realize that you discovered one of the most beautiful places in the whole world. You just arrived in Siwa oasis located in the western desert of Egypt, 450 km away from the Nile river banks.   This island has the absolute best sunset view you can ever watch. Fitnas island overlooks the salty lake of Siwa, where you can see the great sand dunes in the distance.  \nIt is by far one of the most serene places where you can unplug from the world and enjoy a nice tea with an amazing view. ",
-      "Images": [
-        "Siwa_Fitnas_Island.jpg"
-      ],
-      "dep": "2",
-      "city": "siwa",
-      "id": 9
-    },
-    {
-      "title": "Khan Al Khalili",
-      "description": "The skinny lanes of Khan Al Khalili are basically a medieval-style mall.",
-      "img": "ff.jpg",
-      "section": "Explore top attractions",
-      "content": "The skinny lanes of Khan Al Khalili are basically a medieval-style mall. This agglomeration of shops – many arranged around small courtyards – stocks everything from soap powder to semiprecious stones, not to mention tacky toy camels and alabaster pyramids. Most shops and stalls open from around 9am to well after sundown (except Friday morning and Sunday), although plenty of the souvenir vendors are open as long as there are customers, even on Sunday.\n\nCairenes have plied their trades here since the khan was built in the 14th century, and parts of the market, such as the gold district, are still the first choice for thousands of locals. The khan used to be divided into fairly rigid districts, but now the only distinct areas are the gold sellers, the coppersmiths and the spice dealers. Apart from the clumsy ‘Hey mister, look for free’ touts, the merchants of Khan Al Khalili are some of the greatest smooth-talkers you will ever meet. Almost anything can be bought here and if one merchant doesn’t have what you’re looking for, he’ll happily find somebody who does.",
-      "Images": [
-        "ff.jpg"
-      ],
-      "dep": "5",
-      "city": "cario",
-      "id": 10
-    },
-    {
-      "title": "Walk down Alexandria Corniche",
-      "description": "The heart of Alexandria is truly in its Corniche",
-      "img": "alex7.jpg",
-      "section": "Explore top attractions",
-      "content": "The heart of Alexandria is truly in its Corniche, the coastal road that hugs the Mediterranean Sea on one side and the city on the other. It’s by walking down the Corniche and seeing the fishing boats bobbing on the water that you can really imagine what the ancient city was like in its heyday over 2,000 years ago. \n\n\nIt’s also a great place to people-watch: you’ll see street vendors peddling all kinds of random stuff, parents pushing babies in their strollers, couples walking hand-in-hand, fishermen, and teenagers doing… well whatever it is that teenagers do. ",
-      "Images": [
-        "alex7.jpg"
-      ],
-      "dep": "2",
-      "city": "alexandria",
-      "id": 11
-    },
-    {
-      "title": "Ramadan in Cairo, Egypt: What Every Visitor Needs to Know",
-      "description": "It's easy to feel worried about something you might not be familiar with, especially if you want to be respectful at the same time. ",
-      "img": "ram1.jpg",
-      "section": "Keep up with the new",
-      "content": "If your upcoming trip to Cairo coincides with the Islamic holy month of Ramadan, you might (scratch that, you probably) feel some sense of hesitation or unease, especially if it's your first time in a Muslim country. We get it, we do. It's easy to feel worried about something you might not be familiar with, especially if you want to be respectful at the same time. \n\n\nWell we're here to put your worries to rest and give you the real deal when it comes to Ramadan in Cairo. In all honesty, as a tourist, you might not even feel the difference between Ramadan and not Ramadan. But just so you feel prepared, we've pulled together some useful info about Ramadan in Cairo that just might come in handy. \n\n\nJust a quick refresher for those who aren't quite sure what Ramadan is: it's a holy month in Islam where Muslims fast (no food, no water, no smoking) from sunrise to sunset. It's a time of family, community, charity and spirituality. Most Egyptians break their fast at home with a meal of feast-like proportions, usually amongst family and friends. They then digest at leisure (while simultaneously indulging in a ton of delicious but heavy as hell Ramadan desserts, go figure) while watching 'mosalsalat', which are month-long soap operas of sorts, with a new episode daily. There's also a lot of emphasis on giving to the poor and providing food for the less fortunate. ",
-      "Images": [
-        "ram1.jpg",
-        "ram2.jpg",
-        "ram3.jpg"
-      ],
-      "dep": "4",
-      "city": "cairo",
-      "id": 12
-    },
-    {
-      "title": "Egyptian Comfort  Perfect Foods For Winter",
-      "description": "Baby it's cold out... so warm yourself up with these comforting Egyptian winter classics.",
-      "img": "winter1.jpg",
-      "section": "Keep up with the new",
-      "content": "Every winter, almost overnight, most of Egypt goes from warm and breezy to downright freezing. While the temperatures don’t drop as much as Europe and North America, Egypt’s buildings have zero insulation (a godsend in the summer, a nightmare in winter) so the cold strikes right into the very core of us. \nSo what’s a freezing person to do? Well, besides adding another layer of clothing to the seventeen layers we’re already wearing, we Egyptians like to warm ourselves both physically and emotionally with some good ol’ comfort food. And while one can never go amiss with pizza, today we’re listing our favorite local Egyptian winter classics and the best places to find them. \n1. Lentil Soup:\nServed with croutons (or any other type of crunchy bread) and with lemon on the side, Egyptian lentil soup is a staple on most menus year-round, but winter is when we really learn to appreciate this hearty and filling soup. Like most Egyptian classics, it’s best homemade but a few restaurants have managed to nail it.\nBest place for lentil soup: Abu El Sid\n2. Roasted Sweet Potato:\nNow we’re not talking about just shoving a sweet potato or two in the oven at home, no. Walk the streets of any city in Egypt and sooner or later you’ll smell something distinctly sweet and smoky at the same time -- it’s the siren call of the resident batata (sweet potato) street cart. These vendors roast the sweet potatoes in their little portable wood-burning ovens until they’re so soft they practically fall out of their skins (the sweet potatoes, not the vendors). \n\n\nBest place for roasted sweet potato: like we said, your nearest neighborhood batata cart\n\n3. Sahlab:\nSo technically sahlab is a comfort drink not a comfort food, but who are we to split hairs. It’s a hot milk-based drink with ground orchid roots to thicken it -- yes, ground orchid roots. Add some sugar, vanilla, shredded coconut and a sprinkle of cinnamon and nuts and voila; the winter drink of our childhood. \n\n\nBest place for sahlab: while sahlab can be found in every cafe and ahwa in the city, they sometimes use the instant sachets of sahlab which are just… no. If you want the real deal, you can buy the orchid roots at an attar (a common Egyptian shop that sells all kinds of herbs and spices) and make it at home. \n4. Hommos El Sham:\nHommos El Sham (also known as halabessa) is an interesting toss-up between comfort food and comfort drink. It’s essentially a spicy tomato drink with chickpeas, garlic and onion, served hot and with a side plate of cumin, chili and lemon for everyone to spice as they see fit. \n\n\nBest place for hommos el sham: if you want to go full local, try one of the hommos el sham carts that line the bridges and Nile Corniche in winter. Otherwise, your neighborhood ahwa should do the trick. \n",
-      "Images": [
-        "winter1.jpg",
-        "winter2.jpg",
-        "winter3.jpg",
-        "winter4.jpg"
-      ],
-      "dep": "6",
-      "city": "",
-      "id": 13
-    }
-  ],
+      ]
+    ],
+    "content": [
+      "In Siwa there is a Lake, its sides built of stone and its water is filled with hot springs, where you can enjoy a swim in this clear lake.",
+      "The place where Queen Cleopatra swore was celebrated, as the Egyptian Queen Cleopatra swam by herself during her visit to Siwa.",
+      "It is called Cleopatra's eye, the eye of the sun, the eye of Juba, or the holy eye. It has a diameter of 40 meters and a depth of ten meters.\nIts strong flowing water is characterized by purity and serenity, it automatically renews itself,Water flows from small openings and is surrounded by trees and palms.",
+      "The lake is the main source of water for more than 840 square kilometres of gardens and orchards in the oasis."
+    ],
+    "Images": [
+      "keepNew3.jpg",
+      "lake1.jpg",
+      "lake2.jpg",
+      "lakee.jpeg"
+    ],
+    "dep": "7",
+    "city": "siwa",
+    "id": 6
+  },
+  {
+    "title": [
+      "Enjoy A journey through history in the Temple of Amon"
+    ],
+    "description": [
+      "The Temple of Amon, the Temple of Revelation, the Predictions, or the Temple of Alexander are all the names of the most important monuments in Siwa Oasis."
+    ],
+    "img": [
+      "art8.jpg"
+    ],
+    "section": [
+      [
+        "Explore top attractions"
+      ]
+    ],
+    "content": [
+      "The Temple of Amon, the Temple of Revelation, the Predictions, or the Temple of Alexander are all the names of the most important monuments in Siwa Oasis.\nA lobby was built inside the temple to receive the Great Alexander and crown him. It is located 4 km from the middle of the city in an area called Agurami, built on a large flat rock.",
+      "The temple witnessed many changes and many fingerprints, from the Pharaonic, Greek, Roman, and even Islamic times.",
+      "It contains a mosque, a minaret, rooms for the priests of the Pharaohs, passages and a well of holy water and Roman walls.\nIt is divided into two halves, the first is Pharaonic, and the second is \"Ptolemaic and Islamic.\"",
+      "On the second floor of the temple is a collection of oasis houses and salt lakes, green palm farms surrounded by other archaeological sites and mountains."
+    ],
+    "Images": [
+      "art8.jpg"
+    ],
+    "dep": [
+      "4"
+    ],
+    "city": "siwa",
+    "id": 7
+  },
+  {
+    "title": [
+      "Egypt opens first-ever restaurant on pyramid plateau in Giza"
+    ],
+    "description": [
+      "The gradual opening of the area comes as Egypt continues to attempt to revive its key tourism sector, which has been hit hard by the coronavirus pandemic"
+    ],
+    "img": [
+      "eat1.jpg"
+    ],
+    "section": [
+      "Keep up with the new"
+    ],
+    "content": [
+      "Egypt opened its first-ever restaurant and lounge in Giza’s pyramid plateau, giving visitors a unique view of the plateau’s nine royal tombs.",
+      "The restaurant, named 9 Pyramids Lounge, is built on a total area of 1,341 square metres with indoor and outdoor seating, with a private parking lot nearby, according to a joint statement by the plateau’s main developer, Orascom Pyramids Entertainment, and the Ministry of Antiquities and Tourism.",
+      "Sawiris also revealed that two fine dining restaurants and a cafe are set to be opened in early 2021 in the area’s old engineering administration building overlooking the three pyramids.",
+      "The gradual opening of the area comes as Egypt continues to attempt to revive its key tourism sector, which has been hit hard by the coronavirus pandemic.\n",
+      "The tourism sector is a main source of foreign currency, with all eyes on the winter season in Egypt’s main Red Sea and South Sinai resorts, which are usually a favourite destination for tourists during winter.",
+      "The lounge was inaugurated during an event attended by Tourism and Antiquities Minister Khaled Al-Anany, chairman and CEO of Orascom Naguib Sawiris, CEO of Orascom Pyramids Entertainment Ashraf Halim, and others."
+    ],
+    "Images": [
+      "eat1.jpg",
+      "eat11.jpeg",
+      "eat12.jpeg"
+    ],
+    "dep": [
+      "6"
+    ],
+    "city": "cairo",
+    "id": 8
+  },
+  {
+    "title": [
+      "Watch the Sunset from Fitnas island  "
+    ],
+    "description": [
+      "It is by far one of the most serene places where you can unplug from the world and enjoy a nice tea with an amazing view. "
+    ],
+    "img": [
+      "Siwa_Fitnas_Island.jpg"
+    ],
+    "section": [
+      "Explore top attractions"
+    ],
+    "content": "Imagine yourself lost under the burning desert sun looking for shelter. Suddenly in the endless sand dunes, you see in the distance a scenery of lakes and palm trees. You run desperately towards the view, hoping that it’s not another mirage. Yet, it turns out to be real.   \n\nArriving there to discover that this heavenly oasis doesn’t just provide you with water and shade. You realize that you discovered one of the most beautiful places in the whole world. You just arrived in Siwa oasis located in the western desert of Egypt, 450 km away from the Nile river banks.   This island has the absolute best sunset view you can ever watch. Fitnas island overlooks the salty lake of Siwa, where you can see the great sand dunes in the distance.  \nIt is by far one of the most serene places where you can unplug from the world and enjoy a nice tea with an amazing view. ",
+    "Images": [
+      "Siwa_Fitnas_Island.jpg"
+    ],
+    "dep": "7",
+    "city": "siwa",
+    "id": 9
+  },
+  {
+    "title": [
+      "Khan Al Khalili"
+    ],
+    "description": [
+      "The skinny lanes of Khan Al Khalili are basically a medieval-style mall."
+    ],
+    "img": [
+      "ff.jpg"
+    ],
+    "section": [
+      "Explore top attractions"
+    ],
+    "content": [
+      "The skinny lanes of Khan Al Khalili are basically a medieval-style mall. This agglomeration of shops – many arranged around small courtyards – stocks everything from soap powder to semiprecious stones, not to mention tacky toy camels and alabaster pyramids.",
+      "Most shops and stalls open from around 9am to well after sundown (except Friday morning and Sunday), although plenty of the souvenir vendors are open as long as there are customers, even on Sunday.",
+      "Cairenes have plied their trades here since the khan was built in the 14th century, and parts of the market, such as the gold district, are still the first choice for thousands of locals.",
+      "The khan used to be divided into fairly rigid districts, but now the only distinct areas are the gold sellers, the coppersmiths and the spice dealers. Apart from the clumsy ‘Hey mister, look for free’ touts, the merchants of Khan Al Khalili are some of the greatest smooth-talkers you will ever meet. Almost anything can be bought here and if one merchant doesn’t have what you’re looking for, he’ll happily find somebody who does."
+    ],
+    "Images": [
+      "ff.jpg"
+    ],
+    "dep": [
+      "5"
+    ],
+    "city": "cario",
+    "id": 10
+  },
+  {
+    "title": [
+      "Walk down Alexandria Corniche"
+    ],
+    "description": [
+      "The heart of Alexandria is truly in its Corniche"
+    ],
+    "img": [
+      "alex7.jpg"
+    ],
+    "section": [
+      "Explore top attractions"
+    ],
+    "content": [
+      "The heart of Alexandria is truly in its Corniche, the coastal road that hugs the Mediterranean Sea on one side and the city on the other.",
+      "It’s by walking down the Corniche and seeing the fishing boats bobbing on the water that you can really imagine what the ancient city was like in its heyday over 2,000 years ago. ",
+      "It’s also a great place to people-watch: you’ll see street vendors peddling all kinds of random stuff, parents pushing babies in their strollers, couples walking hand-in-hand, fishermen, and teenagers doing… well whatever it is that teenagers do. "
+    ],
+    "Images": [
+      "alex7.jpg"
+    ],
+    "dep": [
+      "2"
+    ],
+    "city": "alexandria",
+    "id": 11
+  },
+  {
+    "title": [
+      "Ramadan in Cairo, Egypt: What Every Visitor Needs to Know"
+    ],
+    "description": [
+      "It's easy to feel worried about something you might not be familiar with, especially if you want to be respectful at the same time. "
+    ],
+    "img": [
+      "ram1.jpg"
+    ],
+    "section": [
+      "Keep up with the new"
+    ],
+    "content": [
+      "If your upcoming trip to Cairo coincides with the Islamic holy month of Ramadan, you might (scratch that, you probably) feel some sense of hesitation or unease, especially if it's your first time in a Muslim country.",
+      "We get it, we do. It's easy to feel worried about something you might not be familiar with, especially if you want to be respectful at the same time. ",
+      "Well we're here to put your worries to rest and give you the real deal when it comes to Ramadan in Cairo. In all honesty, as a tourist, you might not even feel the difference between Ramadan and not Ramadan. But just so you feel prepared, we've pulled together some useful info about Ramadan in Cairo that just might come in handy. ",
+      "Just a quick refresher for those who aren't quite sure what Ramadan is: it's a holy month in Islam where Muslims fast (no food, no water, no smoking) from sunrise to sunset. It's a time of family, community, charity and spirituality. ",
+      "Most Egyptians break their fast at home with a meal of feast-like proportions, usually amongst family and friends. They then digest at leisure (while simultaneously indulging in a ton of delicious but heavy as hell Ramadan desserts, go figure) while watching 'mosalsalat', which are month-long soap operas of sorts, with a new episode daily.",
+      "There's also a lot of emphasis on giving to the poor and providing food for the less fortunate. "
+    ],
+    "Images": [
+      "ram1.jpg",
+      "ram2.jpg",
+      "ram3.jpg"
+    ],
+    "dep": [
+      "4"
+    ],
+    "city": "cairo",
+    "id": 12
+  },
+  {
+    "title": [
+      "Egyptian Comfort  Perfect Foods For Winter"
+    ],
+    "description": [
+      "Baby it's cold out... so warm yourself up with these comforting Egyptian winter classics."
+    ],
+    "img": [
+      "winter1.jpg"
+    ],
+    "section": [
+      "Keep up with the new"
+    ],
+    "content": [
+      "Every winter, almost overnight, most of Egypt goes from warm and breezy to downright freezing.",
+      "While the temperatures don’t drop as much as Europe and North America, Egypt’s buildings have zero insulation (a godsend in the summer, a nightmare in winter) so the cold strikes right into the very core of us. ",
+      "So what’s a freezing person to do? Well, besides adding another layer of clothing to the seventeen layers we’re already wearing, we Egyptians like to warm ourselves both physically and emotionally with some good ol’ comfort food. And while one can never go amiss with pizza, today we’re listing our favorite local Egyptian winter classics and the best places to find them. ",
+      "1. Lentil Soup:\n",
+      "Served with croutons (or any other type of crunchy bread) and with lemon on the side, Egyptian lentil soup is a staple on most menus year-round, but winter is when we really learn to appreciate this hearty and filling soup. Like most Egyptian classics, it’s best homemade but a few restaurants have managed to nail it.",
+      "Best place for lentil soup: Abu El Sid",
+      "2. Roasted Sweet Potato:\n",
+      "Now we’re not talking about just shoving a sweet potato or two in the oven at home, no. Walk the streets of any city in Egypt and sooner or later you’ll smell something distinctly sweet and smoky at the same time -- it’s the siren call of the resident batata (sweet potato) street cart. These vendors roast the sweet potatoes in their little portable wood-burning ovens until they’re so soft they practically fall out of their skins (the sweet potatoes, not the vendors). ",
+      "Best place for roasted sweet potato: like we said, your nearest neighborhood batata cart",
+      "3. Sahlab:",
+      "So technically sahlab is a comfort drink not a comfort food, but who are we to split hairs. It’s a hot milk-based drink with ground orchid roots to thicken it -- yes, ground orchid roots. Add some sugar, vanilla, shredded coconut and a sprinkle of cinnamon and nuts and voila; the winter drink of our childhood. ",
+      "Best place for sahlab: while sahlab can be found in every cafe and ahwa in the city, they sometimes use the instant sachets of sahlab which are just… no. If you want the real deal, you can buy the orchid roots at an attar (a common Egyptian shop that sells all kinds of herbs and spices) and make it at home. ",
+      "4. Hommos El Sham:",
+      "Hommos El Sham (also known as halabessa) is an interesting toss-up between comfort food and comfort drink. It’s essentially a spicy tomato drink with chickpeas, garlic and onion, served hot and with a side plate of cumin, chili and lemon for everyone to spice as they see fit. ",
+      "Best place for hommos el sham: if you want to go full local, try one of the hommos el sham carts that line the bridges and Nile Corniche in winter. Otherwise, your neighborhood ahwa should do the trick."
+    ],
+    "Images": [
+      "winter1.jpg",
+      "winter2.jpg",
+      "winter3.jpg",
+      "winter4.jpg"
+    ],
+    "dep": [
+      "6"
+    ],
+    "city": "",
+    "id": 13
+  }
+]
   "curators": [
     {
       "id": 1,
