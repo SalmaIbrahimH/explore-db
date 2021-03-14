@@ -547,7 +547,9 @@
       "selTrain": {
         "trainNumber": "905",
         "destination": "Alexandria",
-        "ticketPrice": "130"
+        "ticketPrice": "130",
+        "departureTime": "21:00",
+        "arrivalTime": "09:40"
       },
       "id": 16
     },
