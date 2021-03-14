@@ -422,17 +422,19 @@
       "name": "test ya bob"
     }
   ],
-  "programs": [
+   "programs": [
     {
-      "programName": "relax",
+      "programName": "summer1",
       "from": "2021-03-03",
       "to": "2021-03-06",
       "city": "2",
-      "fromCity": "3",
-      "toCity": "3",
+      "fromCity": "1",
+      "toCity": "2",
       "selHotel": {
-        "hotelName": "Azure",
-        "roomPrice": "1234"
+        "hotelName": "Mercure Alexandria Romance ",
+        "roomPrice": "1100",
+        "adress": "303 Tareek El Gueish Saba Pasha, Alexandria, Alexandria, Egypt",
+        "contactInfo": " 03 5840911"
       },
       "selTrain": {
         "trainNumber": "988",
@@ -446,100 +448,128 @@
       "from": "2021-02-10",
       "to": "2021-02-23",
       "city": "3",
-      "fromCity": "1",
+      "fromCity": "3",
       "toCity": "3",
       "selHotel": {
-        "hotelName": "Sofitel Legend Old Cataract Aswan",
-        "roomPrice": "4370"
+        "hotelName": "Kato Dool Nubian House",
+        "roomPrice": "1430",
+        "adress": "Gharb Siheil, Nagaa Suhayl Gharb, Aswan, Egypt",
+        "contactInfo": "0106 755 7225"
       },
       "selTrain": {
         "trainNumber": "982",
         "destination": "Aswan",
-        "ticketPrice": "182"
+        "ticketPrice": "182",
+        "departureTime": "12:00",
+        "arrivalTime": "02:25"
       },
       "id": 7
     },
     {
-      "userID": 2,
       "programName": "relax2",
       "from": "2021-02-24",
       "to": "2021-02-26",
       "city": "3",
+      "fromCity": "1",
+      "toCity": "3",
       "selHotel": {
-        "hotelName": "Fermont",
-        "roomPrice": "1500LE"
+        "hotelName": "Tolip Aswan Hotel",
+        "roomPrice": "1790",
+        "adress": "Nile Corniche, Aswan, Aswan, Egypt",
+        "contactInfo": "097 2328828"
       },
       "selTrain": {
-        "trainNumber": 999,
-        "destination": "Aswan"
+        "trainNumber": "988",
+        "destination": "Aswan",
+        "ticketPrice": "182",
+        "departureTime": "19:00",
+        "arrivalTime": "07:50"
       },
       "id": 8
     },
     {
-      "userID": 2,
       "programName": "test",
       "from": "2021-03-09",
       "to": "2021-03-12",
-      "city": "2",
+      "city": "1",
+      "fromCity": "2",
+      "toCity": "1",
       "selHotel": {
-        "hotelName": "Ramses Hilton",
-        "roomPrice": "929"
+        "hotelName": "Royal Maxim Palace Kempinski",
+        "roomPrice": "2270",
+        "adress": "​First Settlement, P.O. Box 41, New Cairo, New Cairo, Cairo, Egypt,",
+        "contactInfo": "02 22495300"
       },
       "selTrain": {
         "trainNumber": "916",
         "destination": "cairo",
-        "ticketPrice": "130"
+        "ticketPrice": "130",
+        "departureTime": "14:00",
+        "arrivalTime": "16:30"
       },
       "id": 14
     },
     {
-      "userID": 2,
       "programName": "test2",
-      "from": "2021-03-23",
-      "to": "2021-03-19",
-      "city": "2",
+      "from": "2021-03-14",
+      "to": "2021-03-25",
+      "city": "1",
+      "fromCity": "3",
+      "toCity": "1",
       "selHotel": {
-        "hotelName": "Azure",
-        "roomPrice": "1234"
+        "hotelName": "Pyramids Park Resort",
+        "roomPrice": "644",
+        "adress": "Pyramids Park Resort",
+        "contactInfo": "02 38388300"
+      },
+      "selTrain": {
+        "trainNumber": "916",
+        "destination": "cairo",
+        "ticketPrice": "130",
+        "departureTime": "14:00",
+        "arrivalTime": "16:30"
+      },
+      "id": 15
+    },
+    {
+      "programName": "test user 1d",
+      "from": "2021-03-29",
+      "to": "2021-03-25",
+      "city": "1",
+      "fromCity": "2",
+      "toCity": "1",
+      "selHotel": {
+        "hotelName": "Concorde El Salam",
+        "roomPrice": "1169",
+        "adress": "65 Abdel Hamid Badawy Street, Heliopolis, Cairo, Egypt",
+        "contactInfo": "02 21800500"
       },
       "selTrain": {
         "trainNumber": "905",
         "destination": "Alexandria",
         "ticketPrice": "130"
       },
-      "id": 15
-    },
-    {
-      "userID": 2,
-      "programName": "test user 1d",
-      "from": "2021-03-29",
-      "to": "2021-03-25",
-      "city": "2",
-      "selHotel": {
-        "hotelName": "Kato Dool Nubian House",
-        "roomPrice": "1430"
-      },
-      "selTrain": {
-        "trainNumber": "980",
-        "destination": "Aswan",
-        "ticketPrice": "306.8"
-      },
       "id": 16
     },
     {
-      "userID": 2,
       "programName": "test user2",
       "from": "2021-03-09",
       "to": "2021-03-26",
-      "city": "2",
+      "city": "3",
+      "fromCity": "1",
+      "toCity": "3",
       "selHotel": {
-        "hotelName": "Concorde El Salam",
-        "roomPrice": "1169"
+        "hotelName": "Hapi Hotel",
+        "roomPrice": "484",
+        "adress": "10 Abtal El Tahrir, Aswan, Aswan, Egypt",
+        "contactInfo": "097 2455032"
       },
       "selTrain": {
-        "trainNumber": "900",
-        "destination": "cairo",
-        "ticketPrice": "72.8"
+        "trainNumber": "2014",
+        "destination": "Aswan",
+        "ticketPrice": "306.8",
+        "departureTime": "21:00",
+        "arrivalTime": "09:40"
       },
       "id": 17
     }
