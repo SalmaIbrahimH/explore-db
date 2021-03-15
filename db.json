@@ -669,10 +669,10 @@
       "art2_1.jpg"
     ,
     "section": 
-      [
+      
         "Explore top attractions"
       
-    ],
+    ,
     "content": [
       "Among a list of 25 destinations worldwide, Alexandria came in sport 23, according to comments and ratings from travelers published on the website.Previously, Cairo and Hurghada were selected for their 2020 list, as Cairo ranked in the 12th place and Hurghada in the 24th place.",
       "The Pearl of the Mediterranean has an ambiance more in keeping with its neighbors to the north than with those in the Middle East,” it says on the website, “Alexandria offers fascinating insights into its proud Greek past, as well as interesting mosques, the casino strip of the Corniche, some lovely gardens and both modern and traditional hotels.",
@@ -801,20 +801,20 @@
     "id": 6
   },
   {
-    "title": [
+    "title": 
       "Enjoy A journey through history in the Temple of Amon"
-    ],
-    "description": [
+    ,
+    "description": 
       "The Temple of Revelation, or the Temple of Alexander are all the names of the most important monuments in Siwa Oasis."
-    ],
-    "img": [
+    ,
+    "img": 
       "art8.jpg"
-    ],
-    "section": [
-      [
+    ,
+    "section": 
+      
         "Explore top attractions"
-      ]
-    ],
+      
+    ,
     "content": [
       "The Temple of Amon, the Temple of Revelation, the Predictions, or the Temple of Alexander are all the names of the most important monuments in Siwa Oasis.\nA lobby was built inside the temple to receive the Great Alexander and crown him. It is located 4 km from the middle of the city in an area called Agurami, built on a large flat rock.",
       "The temple witnessed many changes and many fingerprints, from the Pharaonic, Greek, Roman, and even Islamic times.",
@@ -831,18 +831,18 @@
     "id": 7
   },
   {
-    "title": [
+    "title": 
       "Egypt opens first-ever restaurant on pyramid plateau in Giza"
-    ],
-    "description": [
+    ,
+    "description": 
       "Egypt continues to attempt to revive its key tourism sector, which has been hit hard by the coronavirus pandemic"
-    ],
+    ,
     "img": [
       "eat1.jpg"
     ],
-    "section": [
+    "section": 
       "Keep up with the new"
-    ],
+    ,
     "content": [
       "Egypt opened its first-ever restaurant and lounge in Giza’s pyramid plateau, giving visitors a unique view of the plateau’s nine royal tombs.",
       "The restaurant, named 9 Pyramids Lounge, is built on a total area of 1,341 square metres with indoor and outdoor seating, with a private parking lot nearby, according to a joint statement by the plateau’s main developer, Orascom Pyramids Entertainment, and the Ministry of Antiquities and Tourism.",
@@ -863,18 +863,18 @@
     "id": 8
   },
   {
-    "title": [
+    "title": 
       "Watch the Sunset from Fitnas island  "
-    ],
-    "description": [
+    ,
+    "description": 
       "It is by far one of the most serene places where you can unplug from the world and enjoy a nice tea with an amazing view. "
-    ],
-    "img": [
+    ,
+    "img": 
       "Siwa_Fitnas_Island.jpg"
-    ],
-    "section": [
+    ,
+    "section": 
       "Explore top attractions"
-    ],
+    ,
     "content":[
     "magine yourself lost under the burning desert sun looking for shelter. Suddenly in the endless sand dunes, you see in the distance a scenery of lakes and palm trees. You run desperately towards the view, hoping that it’s not another mirage. Yet, it turns out to be real",
     "Arriving there to discover that this heavenly oasis doesn’t just provide you with water and shade. You realize that you discovered one of the most beautiful places in the whole world.",
@@ -888,18 +888,18 @@
     "id": 9
   },
   {
-    "title": [
+    "title": 
       "Khan Al Khalili"
-    ],
-    "description": [
+    ,
+    "description": 
       "The skinny lanes of Khan Al Khalili are basically a medieval-style mall."
-    ],
-    "img": [
+    ,
+    "img": 
       "ff.jpg"
-    ],
-    "section": [
+    ,
+    "section": 
       "Explore top attractions"
-    ],
+    ,
     "content": [
       "The skinny lanes of Khan Al Khalili are basically a medieval-style mall. This agglomeration of shops – many arranged around small courtyards – stocks everything from soap powder to semiprecious stones, not to mention tacky toy camels and alabaster pyramids.",
       "Most shops and stalls open from around 9am to well after sundown (except Friday morning and Sunday), although plenty of the souvenir vendors are open as long as there are customers, even on Sunday.",
@@ -916,18 +916,18 @@
     "id": 10
   },
   {
-    "title": [
+    "title": 
       "Walk down Alexandria Corniche"
-    ],
-    "description": [
+    ,
+    "description": 
       "The heart of Alexandria is truly in its Corniche"
-    ],
-    "img": [
+    ,
+    "img": 
       "alex7.jpg"
-    ],
-    "section": [
+    ,
+    "section": 
       "Explore top attractions"
-    ],
+    ,
     "content": [
       "The heart of Alexandria is truly in its Corniche, the coastal road that hugs the Mediterranean Sea on one side and the city on the other.",
       "It’s by walking down the Corniche and seeing the fishing boats bobbing on the water that you can really imagine what the ancient city was like in its heyday over 2,000 years ago. ",
@@ -943,18 +943,18 @@
     "id": 11
   },
   {
-    "title": [
+    "title": 
       "Ramadan in Cairo, Egypt: What Every Visitor Needs to Know"
-    ],
-    "description": [
+    ,
+    "description": 
       "It's easy to feel worried about something you might not be familiar with, especially if you want to be respectful at the same time. "
-    ],
-    "img": [
+    ,
+    "img": 
       "ram1.jpg"
-    ],
-    "section": [
+    ,
+    "section": 
       "Keep up with the new"
-    ],
+    ,
     "content": [
       "If your upcoming trip to Cairo coincides with the Islamic holy month of Ramadan, you might (scratch that, you probably) feel some sense of hesitation or unease, especially if it's your first time in a Muslim country.",
       "We get it, we do. It's easy to feel worried about something you might not be familiar with, especially if you want to be respectful at the same time. ",
@@ -975,18 +975,18 @@
     "id": 12
   },
   {
-    "title": [
+    "title": 
       "Egyptian Comfort  Perfect Foods For Winter"
-    ],
-    "description": [
+    ,
+    "description": 
       "Baby it's cold outside so warm yourself up with these comforting Egyptian winter classics."
-    ],
-    "img": [
+    ,
+    "img": 
       "winter1.jpg"
-    ],
-    "section": [
+    ,
+    "section": 
       "Keep up with the new"
-    ],
+    ,
     "content": [
       "Every winter, almost overnight, most of Egypt goes from warm and breezy to downright freezing.",
       "While the temperatures don’t drop as much as Europe and North America, Egypt’s buildings have zero insulation (a godsend in the summer, a nightmare in winter) so the cold strikes right into the very core of us. ",
