@@ -1488,7 +1488,7 @@
       "seconddescription": "Hop your way through outdoor Egypt Markets, sprint through malls on a half-day shopping spree and sink your teeth into all kinds of family fun exclusively with DSF this week"
     }
   ],
- itinerariesCities
+ "itinerariesCities":
  [{"name": "cairo"},
 {"name": "Alexandria"},
 {"name": "Aswan"},
