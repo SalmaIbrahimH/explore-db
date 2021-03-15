@@ -628,18 +628,18 @@
   ],
  "activitiesArticles":[
   {
-    "title": [
+    "title": 
       "How Egypt is trying to encourage the return of tourism"
-    ],
-    "description": [
+    ,
+    "description": 
       "Egypt is reopening its borders to international tourists on 1 July,but many parts of the country will remain off-limits."
-    ],
-    "img": [
+    ,
+    "img": 
       "Explore top attractions1.jpg"
-    ],
-    "section": [
+    ,
+    "section": 
       "Explore top attractions"
-    ],
+    ,
     "content": [
       "The year 2020 was set to be a blockbuster one for tourism in Egypt. The Grand Egyptian Museum was slated to open this year after nearly two decades in the making, prompting Lonely Planet to name Cairo one of the top cities to visit in 2020.",
       "It’s easier than ever to travel around the country, with the recent introduction of e-visas, the opening of a new airport in Giza and new domestic flight routes between Sharm El Sheikh and Luxor, two of the country’s main tourist hubs.",
@@ -653,28 +653,25 @@
       "art1_1.jpg",
       "art1_2.jpg"
     ],
-    "dep": [
-      [
-        1
-      ]
-    ],
+    "dep": 
+        1,
     "city": null,
     "id": 1
   },
   {
-    "title": [
+    "title": 
       "Alexandria Among Most Popular Tourist Destinations in 2021: TripAdvisor"
-    ],
-    "description": [
+    ,
+    "description": 
       "Alexandria has been selected as one of the world’s most popular tourist destinations in 2021."
-    ],
-    "img": [
+    ,
+    "img": 
       "art2_1.jpg"
-    ],
-    "section": [
+    ,
+    "section": 
       [
         "Explore top attractions"
-      ]
+      
     ],
     "content": [
       "Among a list of 25 destinations worldwide, Alexandria came in sport 23, according to comments and ratings from travelers published on the website.Previously, Cairo and Hurghada were selected for their 2020 list, as Cairo ranked in the 12th place and Hurghada in the 24th place.",
@@ -687,31 +684,22 @@
       "art2-2.jpg",
       "art2_3.jpg"
     ],
-    "dep": [
-      [
-        [
-          1,
-          2,
-          3
-        ]
-      ]
-    ],
+    "dep":  2
+        ,
     "city": "Alexandria",
     "id": 2
   },
   {
-    "title": [
+    "title": 
       "Young Egyptian promotes tourism with selfies"
-    ],
+    ,
     "description": " Egyptian young man started an initiative called “Selfie with Egypt” to promote beautiful places in Egypt.",
-    "img": [
+    "img": 
       "art3_3.jpg"
-    ],
-    "section": [
-      [
+    ,
+    "section": 
         "Explore top attractions"
-      ]
-    ],
+      ,
     "content": [
       "Aiming to promote tourism in Egypt both locally and internationally, Mostafa Khater, who studies Pharmacy at Helwan University, decided to try a new way.",
       "The 21-year-old student said that he hasn’t received any help from the state for his promotional work and only shares his photos on Facebook and Instagram.He called on government officials to use his photography to promote tourism in Egypt and added that he is currently seeking to show his initiative off during the upcoming state-sponsored international Youth Conference that is planned to take place on November at Sharm El-Sheikh.",
@@ -728,18 +716,18 @@
     "id": 3
   },
   {
-    "title": [
+    "title": 
       "Hot Air Ballooning in Luxor"
-    ],
-    "description": [
+    ,
+    "description": 
       "It’s an incredibly peaceful time in the air. The balloon is literally floating, you don’t feel a thing, and it’s so silent. All the while you fly over one of the most amazing sceneries worldwide."
-    ],
-    "img": [
+    ,
+    "img": 
       "keepNew1.jpg"
-    ],
-    "section": [
+    ,
+    "section": 
       "Keep up with the new"
-    ],
+    ,
     "content": [
       "One of Luxor’s most beloved tourist attractions, the hot air balloon, has made a comeback to the antiquities-laden city with its first trip in 80 days set to resume operating today.",
       "The activity, which gives Luxor its familiar and colorfully punctuated skyline, was suspended in July due to raised security concerns, following an incident in which a balloon drifted off course west of the city.According to state-owned news outlet Al Ahram, the city’s aviation authorities lifted the 80-day suspension of hot air balloon flights as a result of better safety measures being adopted by local operators.",
@@ -755,18 +743,18 @@
     "id": 4
   },
   {
-    "title": [
+    "title": 
       "Al-Qataneyah Dunes for Sandboarding & Barbecuing"
-    ],
-    "description": [
+    ,
+    "description": 
       "It’s the best getaway from trafficy noisy Cairo, located 80km southwest of the city so in less than an hour you can enjoy the emptiness of the desert"
-    ],
-    "img": [
+    ,
+    "img": 
       "keepNew2.jpg"
-    ],
-    "section": [
+    ,
+    "section": 
       "Keep up with the new"
-    ],
+    ,
     "content": [
       "At a distance of 130 km from the Egyptian capital, Cairo, it embraces vast areas of sand dunes, one of the largest natural lakes in Egypt, turning the site into an address for sand skiing in the country.",
       "You have to travel to the desert to discover what is believed to be the best dune site in the whole world because of its rich and deep dunes, some of which reach a height of 140 meters; and if that is not enough for you, there are breathtaking scenes of the landscapes extending across the desert The wide that surrounds you from every direction while skiing. You can head to the sand Pacific Ocean by skiing, whether you are in the Cairo Top Tours camp, sandboarding trips in Egypt, or Egypt day tours, provided you are accompanied by a professional guide. The dunes vary in shapes and sizes to suit everyone.",
@@ -782,22 +770,20 @@
     "id": 5
   },
   {
-    "title": [
+    "title": 
       "Cleopatra’s Bath in Siwa"
-    ],
-    "description": [
-      [
+    ,
+    "description": 
+      
         "Located in Siwa Oasis, and is one of its landmarks. It’s basically a pool that is fed with water from natural hot springs, it’s the best way to cool off the heat of a hot summer day."
-      ]
-    ],
-    "img": [
+      ,
+  
+    "img": 
       "keepNew3.jpg"
-    ],
-    "section": [
-      [
+    ,
+    "section": 
         "Keep up with the new"
-      ]
-    ],
+      ,
     "content": [
       "In Siwa there is a Lake, its sides built of stone and its water is filled with hot springs, where you can enjoy a swim in this clear lake.",
       "The place where Queen Cleopatra swore was celebrated, as the Egyptian Queen Cleopatra swam by herself during her visit to Siwa.",
@@ -838,9 +824,9 @@
     "Images": [
       "art8.jpg"
     ],
-    "dep": [
+    "dep":
       "4"
-    ],
+    ,
     "city": "siwa",
     "id": 7
   },
@@ -870,9 +856,9 @@
       "eat11.jpeg",
       "eat12.jpeg"
     ],
-    "dep": [
+    "dep": 
       "6"
-    ],
+   ,
     "city": "cairo",
     "id": 8
   },
@@ -923,9 +909,9 @@
     "Images": [
       "ff.jpg"
     ],
-    "dep": [
+    "dep": 
       "5"
-    ],
+    ,
     "city": "cario",
     "id": 10
   },
@@ -950,9 +936,9 @@
     "Images": [
       "alex7.jpg"
     ],
-    "dep": [
-      "2"
-    ],
+    "dep": 
+      "3"
+    ,
     "city": "alexandria",
     "id": 11
   },
@@ -982,9 +968,9 @@
       "ram2.jpg",
       "ram3.jpg"
     ],
-    "dep": [
+    "dep": 
       "4"
-    ],
+    ,
     "city": "cairo",
     "id": 12
   },
@@ -1024,9 +1010,9 @@
       "winter3.jpg",
       "winter4.jpg"
     ],
-    "dep": [
+    "dep": 
       "6"
-    ],
+    ,
     "city": "",
     "id": 13
   }
