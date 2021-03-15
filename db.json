@@ -425,6 +425,7 @@
    "programs": [
     {
       "programName": "summer1",
+        "userID":7,
       "from": "2021-03-03",
       "to": "2021-03-06",
       "city": "2",
@@ -445,6 +446,7 @@
     },
     {
       "programName": "frist",
+        "userID":7,
       "from": "2021-02-10",
       "to": "2021-02-23",
       "city": "3",
@@ -467,6 +469,7 @@
     },
     {
       "programName": "relax2",
+        "userID":7,
       "from": "2021-02-24",
       "to": "2021-02-26",
       "city": "3",
