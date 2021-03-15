@@ -1487,5 +1487,15 @@
       "description": "What not to miss this week in Egypt",
       "seconddescription": "Hop your way through outdoor Egypt Markets, sprint through malls on a half-day shopping spree and sink your teeth into all kinds of family fun exclusively with DSF this week"
     }
-  ]
+  ],
+ itinerariesCities
+ [{"name": "cairo"},
+{"name": "Alexandria"},
+{"name": "Aswan"},
+{"name": "port Said"},
+{"name": "alexandria"},
+{"name": "luxor"},
+{"name":"siwa"}
+ ]
+
 }
