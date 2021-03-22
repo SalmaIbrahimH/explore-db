@@ -409,6 +409,7 @@
     "fromDate": "2021-03-23",
     "toDate": "2021-03-27",
     "cityID": "1",
+       "city": "Cairo",
     "fromCityID": "2",
     "toCityID": "1",
     "selHotel": {
@@ -434,6 +435,7 @@
     "toDate": "2021-04-17",
     "cityID": "2",
     "fromCityID": "1",
+      "city": "Alexandria",
     "toCityID": "2",
     "selHotel": {
       "hotelName": "Paradise Inn Windsor Palace ",
@@ -457,6 +459,7 @@
     "fromDate": "2021-11-01",
     "toDate": "2021-11-06",
     "cityID": "3",
+      "city": "Aswan",
     "fromCityID": "1",
     "toCityID": "3",
     "selHotel": {
@@ -949,7 +952,7 @@
       "lastName": "iti",
       "city": "iti",
       "email": "test@iti.com",
-      "password": "12346",
+      "password": "123456",
         "confirmPassword": "123456",
       "id": 1
     },
