@@ -403,161 +403,78 @@
     }
   ],
    "programs": [
-    {
-      "programName": "summer1",
-        "userID":7,
-      "from": "2021-03-03",
-      "to": "2021-03-06",
-      "city": "2",
-      "fromCity": "1",
-      "toCity": "2",
-      "selHotel": {
-        "hotelName": "Mercure Alexandria Romance ",
-        "roomPrice": "1100",
-        "adress": "303 Tareek El Gueish Saba Pasha, Alexandria, Alexandria, Egypt",
-        "contactInfo": " 03 5840911"
-      },
-      "selTrain": {
-        "trainNumber": "988",
-        "destination": "Aswan",
-        "ticketPrice": "182"
-      },
-      "id": 6
+   {
+    "userID": 1,
+    "programName": "new ",
+    "fromDate": "2021-03-23",
+    "toDate": "2021-03-27",
+    "cityID": "1",
+    "fromCityID": "2",
+    "toCityID": "1",
+    "selHotel": {
+      "hotelName": "Ramses Hilton",
+      "roomPrice": "929",
+      "adress": "1115 Corniche El Nile, Downtown, Cairo, Egypt",
+      "contactInfo": " 02 25777444"
     },
-    {
-      "programName": "frist",
-        "userID":7,
-      "from": "2021-02-10",
-      "to": "2021-02-23",
-      "city": "3",
-      "fromCity": "3",
-      "toCity": "3",
-      "selHotel": {
-        "hotelName": "Kato Dool Nubian House",
-        "roomPrice": "1430",
-        "adress": "Gharb Siheil, Nagaa Suhayl Gharb, Aswan, Egypt",
-        "contactInfo": "0106 755 7225"
-      },
-      "selTrain": {
-        "trainNumber": "982",
-        "destination": "Aswan",
-        "ticketPrice": "182",
-        "departureTime": "12:00",
-        "arrivalTime": "02:25"
-      },
-      "id": 7
+    "selTrain": {
+      "trainNumber": "916",
+      "destination": "cairo",
+      "ticketPrice": "130",
+      "departureTime": "14:00",
+      "arrivalTime": "16:30",
+      "details": "Special Service OD"
     },
-    {
-      "programName": "relax2",
-        "userID":7,
-      "from": "2021-02-24",
-      "to": "2021-02-26",
-      "city": "3",
-      "fromCity": "1",
-      "toCity": "3",
-      "selHotel": {
-        "hotelName": "Tolip Aswan Hotel",
-        "roomPrice": "1790",
-        "adress": "Nile Corniche, Aswan, Aswan, Egypt",
-        "contactInfo": "097 2328828"
-      },
-      "selTrain": {
-        "trainNumber": "988",
-        "destination": "Aswan",
-        "ticketPrice": "182",
-        "departureTime": "19:00",
-        "arrivalTime": "07:50"
-      },
-      "id": 8
+    "id": 18
+  },
+  {
+    "userID": 1,
+    "programName": "summer1",
+    "fromDate": "2021-04-12",
+    "toDate": "2021-04-17",
+    "cityID": "2",
+    "fromCityID": "1",
+    "toCityID": "2",
+    "selHotel": {
+      "hotelName": "Paradise Inn Windsor Palace ",
+      "roomPrice": "1368",
+      "adress": "17 El-Shohada Street, Raml Station, Alexandria, Alexandria, Egypt",
+      "contactInfo": "03 4808123"
     },
-    {
-      "programName": "test",
-      "from": "2021-03-09",
-      "to": "2021-03-12",
-      "city": "1",
-      "fromCity": "2",
-      "toCity": "1",
-      "selHotel": {
-        "hotelName": "Royal Maxim Palace Kempinski",
-        "roomPrice": "2270",
-        "adress": "​First Settlement, P.O. Box 41, New Cairo, New Cairo, Cairo, Egypt,",
-        "contactInfo": "02 22495300"
-      },
-      "selTrain": {
-        "trainNumber": "916",
-        "destination": "cairo",
-        "ticketPrice": "130",
-        "departureTime": "14:00",
-        "arrivalTime": "16:30"
-      },
-      "id": 14
+    "selTrain": {
+      "trainNumber": "917",
+      "destination": "Alexandria",
+      "ticketPrice": "130",
+      "departureTime": "14:00",
+      "arrivalTime": "16:30",
+      "details": "Special Service OD"
     },
-    {
-      "programName": "test2",
-      "from": "2021-03-14",
-      "to": "2021-03-25",
-      "city": "1",
-      "fromCity": "3",
-      "toCity": "1",
-      "selHotel": {
-        "hotelName": "Pyramids Park Resort",
-        "roomPrice": "644",
-        "adress": "Pyramids Park Resort",
-        "contactInfo": "02 38388300"
-      },
-      "selTrain": {
-        "trainNumber": "916",
-        "destination": "cairo",
-        "ticketPrice": "130",
-        "departureTime": "14:00",
-        "arrivalTime": "16:30"
-      },
-      "id": 15
+    "id": 19
+  },
+  {
+    "userID": 1,
+    "programName": "winter2022",
+    "fromDate": "2021-11-01",
+    "toDate": "2021-11-06",
+    "cityID": "3",
+    "fromCityID": "1",
+    "toCityID": "3",
+    "selHotel": {
+      "hotelName": "Kato Dool Nubian House",
+      "roomPrice": "1430",
+      "adress": "Gharb Siheil, Nagaa Suhayl Gharb, Aswan, Egypt",
+      "contactInfo": "0106 755 7225"
     },
-    {
-      "programName": "test user 1d",
-      "from": "2021-03-29",
-      "to": "2021-03-25",
-      "city": "1",
-      "fromCity": "2",
-      "toCity": "1",
-      "selHotel": {
-        "hotelName": "Concorde El Salam",
-        "roomPrice": "1169",
-        "adress": "65 Abdel Hamid Badawy Street, Heliopolis, Cairo, Egypt",
-        "contactInfo": "02 21800500"
-      },
-      "selTrain": {
-        "trainNumber": "905",
-        "destination": "Alexandria",
-        "ticketPrice": "130",
-        "departureTime": "21:00",
-        "arrivalTime": "09:40"
-      },
-      "id": 16
+    "selTrain": {
+      "trainNumber": "980",
+      "destination": "Aswan",
+      "ticketPrice": "306.8",
+      "departureTime": "08:00",
+      "arrivalTime": "22:30",
+      "details": "Special Service OD"
     },
-    {
-      "programName": "test user2",
-      "from": "2021-03-09",
-      "to": "2021-03-26",
-      "city": "3",
-      "fromCity": "1",
-      "toCity": "3",
-      "selHotel": {
-        "hotelName": "Hapi Hotel",
-        "roomPrice": "484",
-        "adress": "10 Abtal El Tahrir, Aswan, Aswan, Egypt",
-        "contactInfo": "097 2455032"
-      },
-      "selTrain": {
-        "trainNumber": "2014",
-        "destination": "Aswan",
-        "ticketPrice": "306.8",
-        "departureTime": "21:00",
-        "arrivalTime": "09:40"
-      },
-      "id": 17
-    }
+    "id": 20
+  }
   ],
   "explorDep": [
     {
@@ -1028,11 +945,12 @@
   ],
   "Users": [
     {
-      "firstName": "test",
-      "lastName": "asdasd",
+      "firstName": "user",
+      "lastName": "iti",
       "city": "iti",
       "email": "test@iti.com",
-      "password": "asdasd",
+      "password": "12346",
+        "confirmPassword": "123456",
       "id": 1
     },
     {
@@ -1049,8 +967,8 @@
       "lastName": "ibrahme",
       "city": "Alexandria",
       "email": "salma@iti.com",
-      "password": "asdasd",
-      "confirmPassword": "asdasd",
+      "password": "123456",
+      "confirmPassword": "123456",
       "id": 4
     },
     {
@@ -1058,8 +976,8 @@
       "lastName": "salah",
       "city": "cairo",
       "email": "asmaa@iti.com",
-      "password": "qweqwe",
-      "confirmPassword": "qweqwe",
+      "password": "123456",
+      "confirmPassword": "123456",
       "id": 5
     },
     {
@@ -1067,8 +985,8 @@
       "lastName": "Hassen",
       "city": "cairo",
       "email": "khaled@iti.com",
-      "password": "asdasd",
-      "confirmPassword": "asdasd",
+      "password": "123456",
+      "confirmPassword": "123456",
       "id": 6
     },
     {
